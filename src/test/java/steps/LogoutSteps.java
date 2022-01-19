@@ -25,6 +25,7 @@ public class LogoutSteps {
     public WebDriver herMobileDevice;
 
     String actorName="ysfclskn";
+
     Actor actor = Actor.named(actorName);
 
     @Before
